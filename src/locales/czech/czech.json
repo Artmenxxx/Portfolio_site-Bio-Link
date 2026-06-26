@@ -1,0 +1,29 @@
+{
+    "nav": { "home": "Domů", "about": "O mně", "projects": "Projekty", "contact": "Kontakt" },
+    "home": {
+        "greeting": "> Ahoj, jmenuji se",
+        "subtitle": "IT student · Správa systémů · Frontend",
+        "description": "Studuji na SSOŠ Hranice. Stavím homelab na Raspberry Pi, učím se React a pracuji s infrastrukturou. Tento web je jedním z mých projektů.",
+        "btn_projects": "Moje projekty", "btn_contact": "Kontaktovat",
+        "card_homelab": "2 Raspberry Pi s Dockerem, Nextcloud, Portainer a code-server",
+        "card_frontend": "Učím se React a moderní JavaScript již 2 roky",
+        "card_languages": "Rusky · Ukrajinsky · Česky · Anglicky"
+    },
+    "about": {
+        "title": "Frontend vývojář", "subtitle": "IT student na SSOŠ Hranice (Česká republika)",
+        "description1": "Zaměřuji se na správu systémů a infrastrukturu, zatímco buduju cestu k frontend vývoji.",
+        "description2": "Pracuji s Linuxem, nginxem a Raspberry Pi v domácí laboratoři. Učím se React, moderní JavaScript a základy CI/CD.",
+        "stack_title": "Technologie",
+        "card_pi_title": "🍓 Raspberry Pi", "card_pi_text": "Věnuji se Raspberry Pi asi rok — mám 2 kusy pro Docker kontejnery, Nextcloud, Portainer a code-server. Získal jsem praxi s Linuxem a sítěmi.",
+        "card_dev_title": "💻 Programování", "card_dev_text": "Učím se programovat asi 2 roky. Začínal jsem s HTML a CSS, postupně přešel na JavaScript, Node.js a React.",
+        "languages_title": "Jazyky"
+    },
+    "projects": { "title": "Projekty", "status_active": "aktivní", "status_learning": "učím se", "btn_github": "GitHub →", "btn_details": "Detail" },
+    "contact": {
+        "title": "Kontakt", "intro": "Máte otázku nebo návrh — napište mi, odpovím v pracovní době.",
+        "hours_title": "🕐 Pracovní doba", "hours_weekday": "Po — Pá: 10:00 – 19:00", "hours_weekend": "So, Ne: 13:00 – 19:00",
+        "reach_title": "📬 Jak mě kontaktovat", "github_title": "💻 Projekty", "github_text": "Moje práce jsou k dispozici na",
+        "form_name": "Vaše jméno", "form_email": "Email", "form_message": "Zpráva", "form_submit": "Odeslat"
+    },
+    "footer": { "rights": "Všechna práva vyhrazena · Web vytvořen v roce 2026" }
+}

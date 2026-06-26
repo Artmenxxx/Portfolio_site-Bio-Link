@@ -1,0 +1,35 @@
+/* src/style/TechBadges.css */
+.badges-wrapper {
+    overflow: hidden;
+    width: 100%;
+    background-color: #161B22;
+    border-top: 1px solid #30363D;
+    border-bottom: 1px solid #30363D;
+    padding: 10px 0;
+}
+
+.badges-track {
+    display: flex;
+    gap: 12px;
+    width: max-content;
+    animation: scroll 20s linear infinite;
+}
+
+.badges-track:hover {
+    animation-play-state: paused; 
+}
+
+.badge-item {
+    background: #1F3A5F;
+    color: #4D9EF7;
+    border: 1px solid #4D9EF744;
+    border-radius: 4px;
+    padding: 4px 12px;
+    font-size: 13px;
+    font-family: 'JetBrains Mono', monospace;
+    white-space: nowrap;
+}
+@keyframes scroll {
+    from { transform: translateX(-50%); }
+    to   { transform: translateX(0); }
+}

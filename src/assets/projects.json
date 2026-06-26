@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "flowers-website-educational",
+        "description": "Front-end сайт на html css js ",
+        "text": "",
+        "image": "./images/blog.png",
+        "tags": ["HTML", "CSS", "JS"],
+        "url": "https://github.com/Artmenxxx/flowers-website-educational",
+        "status": "learning"
+    },
+    {
+        "id": 2,
+        "title": "React E-Commerce",
+        "description": "Учебный проект — интернет магазин на Vite",
+        "text": "",
+        "image": "/Portfolio_site-Bio-Link/images/e-commerce.png",
+        "tags": ["React", "Vite", "JavaScript", "Postgres"],
+        "url": "https://github.com/Artmenxxx/react_ecommerce_app",
+        "status": "learning"
+    },
+    {
+        "id": 3,
+        "title": "Telegram Bot",
+        "description": "Рабочий бот принимающий запросы ",
+        "text": "",
+        "image": "/Portfolio_site-Bio-Link/images/Telegram_Bot.png",
+        "tags": ["Express", "GrammY", "JavaScript"],
+        "url": "https://github.com/Artmenxxx/Tg_Bot_Request_Artmenxxx",
+        "status": "active"
+    },
+    {
+        "id": 4,
+        "title": "Portfolio_site-Bio-Link",
+        "description": "Сайт визитка",
+        "text": "",
+        "image":"/Portfolio_site-Bio-Link/images/portfolio.png",
+        "tags": ["React", "Vite", "JavaScript"],
+        "url": "https://github.com/Artmenxxx/Portfolio_site-Bio-Link",
+        "status": "active"
+    },
+    {
+        "id": 5,
+        "title": "Electron App",
+        "description": "Приложение ",
+        "text": "",
+        "tags": ["Electron", "HTML", "JavaScript","CSS"],
+        "url": "https://github.com/Artmenxxx/imgedit",
+        "image": "/Portfolio_site-Bio-Link/images/viwer_photo.png",
+        "status": "not active"
+    }
+]

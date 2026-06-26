@@ -1,0 +1,29 @@
+{
+    "nav": { "home": "Home", "about": "About", "projects": "Projects", "contact": "Contact" },
+    "home": {
+        "greeting": "> Hi, my name is",
+        "subtitle": "IT Student · Sysadmin · Frontend",
+        "description": "Studying at SSOŠ Hranice (Czech Republic). Building a homelab on Raspberry Pi, learning React and working with infrastructure. This site is one of my projects.",
+        "btn_projects": "My Projects", "btn_contact": "Contact Me",
+        "card_homelab": "2 Raspberry Pi with Docker, Nextcloud, Portainer and code-server",
+        "card_frontend": "Learning React and modern JavaScript for 2 years",
+        "card_languages": "Russian · Ukrainian · Czech · English"
+    },
+    "about": {
+        "title": "Frontend Developer", "subtitle": "IT student at SSOŠ Hranice (Czech Republic)",
+        "description1": "Focusing on system administration and infrastructure while building my path toward frontend development.",
+        "description2": "Working with Linux, nginx and Raspberry Pi in my homelab. Learning React, modern JavaScript patterns and CI/CD basics.",
+        "stack_title": "Tech Stack",
+        "card_pi_title": "🍓 Raspberry Pi", "card_pi_text": "Into Raspberry Pi for about a year — got 2 units running Docker containers, Nextcloud, Portainer and code-server. Gained real practice with Linux and networking.",
+        "card_dev_title": "💻 Programming", "card_dev_text": "Learning programming for about 2 years. Started with HTML/CSS, moved to JavaScript, Node.js and React.",
+        "languages_title": "Languages"
+    },
+    "projects": { "title": "Projects", "status_active": "active", "status_learning": "learning", "btn_github": "GitHub →", "btn_details": "Details" },
+    "contact": {
+        "title": "Contact", "intro": "Have a question or proposal — write me, I'll reply during working hours.",
+        "hours_title": "🕐 Working Hours", "hours_weekday": "Mon — Fri: 10:00 – 19:00", "hours_weekend": "Sat, Sun: 13:00 – 19:00",
+        "reach_title": "📬 How to reach me", "github_title": "💻 Projects", "github_text": "Check out my work on",
+        "form_name": "Your name", "form_email": "Email", "form_message": "Message", "form_submit": "Send"
+    },
+    "footer": { "rights": "All rights reserved · Built in 2026" }
+}

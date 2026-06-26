@@ -1,0 +1,29 @@
+{
+    "nav": { "home": "Главная", "about": "Обо мне", "projects": "Проекты", "contact": "Контакты" },
+    "home": {
+        "greeting": "> Привет, меня зовут",
+        "subtitle": "IT студент · Системное администрирование · Frontend",
+        "description": "Учусь в SSOŠ Hranice (Чехия). Строю homelab на Raspberry Pi, изучаю React и занимаюсь инфраструктурой. Этот сайт — один из моих проектов.",
+        "btn_projects": "Мои проекты", "btn_contact": "Связаться",
+        "card_homelab": "2 Raspberry Pi с Docker, Nextcloud, Portainer и code-server",
+        "card_frontend": "Изучаю React и современный JavaScript уже 2 года",
+        "card_languages": "Русский · Украинский · Чешский · Английский"
+    },
+    "about": {
+        "title": "Фронтенд разработчик", "subtitle": "IT студент в SSOŠ Hranice (Чехия)",
+        "description1": "Занимаюсь системным администрированием и инфраструктурой, параллельно строю путь во фронтенд разработку.",
+        "description2": "Работаю с Linux, nginx и Raspberry Pi в домашней лаборатории. Изучаю React, современные паттерны JavaScript и основы CI/CD.",
+        "stack_title": "Стек технологий",
+        "card_pi_title": "🍓 Raspberry Pi", "card_pi_text": "Увлекаюсь Raspberry Pi около года — приобрёл 2 штуки для Docker контейнеров, Nextcloud, Portainer и code-server. Получил практику с Linux и сетевой инфраструктурой.",
+        "card_dev_title": "💻 Программирование", "card_dev_text": "Изучаю программирование около 2 лет. Начинал с HTML и CSS, постепенно двигаясь к JavaScript, Node.js и React.",
+        "languages_title": "Языки"
+    },
+    "projects": { "title": "Проекты", "status_active": "активный", "status_learning": "в процессе", "btn_github": "GitHub →", "btn_details": "Подробнее" },
+    "contact": {
+        "title": "Контакты", "intro": "Есть вопрос или предложение — пишите, отвечу в рабочее время.",
+        "hours_title": "🕐 Рабочее время", "hours_weekday": "Пн — Пт: 10:00 – 19:00", "hours_weekend": "Сб, Вс: 13:00 – 19:00",
+        "reach_title": "📬 Как связаться", "github_title": "💻 Проекты", "github_text": "Посмотреть мои работы можно на",
+        "form_name": "Ваше имя", "form_email": "Email", "form_message": "Сообщение", "form_submit": "Отправить"
+    },
+    "footer": { "rights": "Все права защищены · Сайт создан в 2026" }
+}
