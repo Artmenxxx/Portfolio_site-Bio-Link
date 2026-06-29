@@ -16,7 +16,7 @@ const techs = [
     { label: "Vite",        color: "#BC8CFF" },
     { label: "Git",         color: "#F05032" },
     { label: "Python",      color: "#ffde57" }, 
-    { label: "Django",      color: "#092e20" },
+    { label: "Django",      color: "#0be28f" },
 
 ]
 

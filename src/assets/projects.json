@@ -1,16 +1,6 @@
 [
     {
         "id": 1,
-        "title": "flowers-website-educational",
-        "description": "Front-end сайт на html css js ",
-        "text": "",
-        "image": "./images/blog.png",
-        "tags": ["HTML", "CSS", "JS"],
-        "url": "https://github.com/Artmenxxx/flowers-website-educational",
-        "status": "learning"
-    },
-    {
-        "id": 2,
         "title": "React E-Commerce",
         "description": "Учебный проект — интернет магазин на Vite",
         "text": "",
@@ -20,7 +10,7 @@
         "status": "learning"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "Telegram Bot",
         "description": "Рабочий бот принимающий запросы ",
         "text": "",
@@ -30,7 +20,7 @@
         "status": "active"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Portfolio_site-Bio-Link",
         "description": "Сайт визитка",
         "text": "",
@@ -40,13 +30,23 @@
         "status": "active"
     },
     {
-        "id": 5,
+        "id": 4,
         "title": "Electron App",
         "description": "Приложение ",
         "text": "",
         "tags": ["Electron", "HTML", "JavaScript","CSS"],
         "url": "https://github.com/Artmenxxx/imgedit",
         "image": "/Portfolio_site-Bio-Link/images/viwer_photo.png",
+        "status": "not active"
+    },
+    {
+        "id": 5,
+        "title": "Telegram_quiz_bot",
+        "description": "TG Bot",
+        "text": "",
+        "tags": ["NodeJS", "GrammY", "JavaScript","JSON"],
+        "url": "https://github.com/Artmenxxx/telegram_quiz_bot",
+        "image": "/Portfolio_site-Bio-Link/images/Quize_bot.png",
         "status": "not active"
     }
 ]

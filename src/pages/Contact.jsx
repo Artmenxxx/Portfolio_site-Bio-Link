@@ -26,7 +26,6 @@ function Contact() {
                         <p className="text-secondary mb-0">{t("contact.github_text")} <a href="https://github.com/artmenxxx" className="text-info" target="_blank" rel="noopener noreferrer">GitHub</a></p>
                     </div>
                 </Col>
-                <Col md={6}><ContactForm /></Col>
             </Row>
         </Container>
     )
